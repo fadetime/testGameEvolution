@@ -1,0 +1,29 @@
+export default {
+    mapfirst:[
+        {shadow:true}, 
+        {shadow:true}, 
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true,monster:0},
+        {myhome:true},
+        {shadow:true},
+        {shadow:true}, 
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true},
+        {shadow:true}
+    ]
+}
